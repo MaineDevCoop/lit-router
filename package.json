@@ -1,0 +1,9 @@
+{
+  "name": "lit-router",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "lit-element-router": "^2.0.1"
+  }
+}
